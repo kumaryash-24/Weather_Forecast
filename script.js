@@ -7,7 +7,7 @@ var myInit = {
     cache: 'default'
 };
 
-
+ 
 function defLoc(lat, lon, unit = "metric", theme = "light") {
     var mainReq = new Request('https://api.openweathermap.org/data/2.5/weather?lat=' + lat + '&lon=' + lon + '&units=' + unit + '&appid=4595fa54578e530eb98a555b672f6185', myInit);
 
