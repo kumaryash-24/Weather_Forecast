@@ -51,3 +51,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 ### ☁️ Stay Ahead with Accurate Weather Updates! ☀️🌧️
 Developed by Kumar Yash
 
+
+
+_Last updated: 2026-08-20_
