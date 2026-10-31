@@ -1,6 +1,5 @@
 # Weather Forecast System 🌤️🌙
-Updated on 2026-10-30.
-
+Updated on 2026-10-31.
 Welcome to the **Weather Forecast System**! This web application provides real-time weather updates with a sleek and responsive UI. It also includes a **Dark Mode & Light Mode** switch for a personalized user experience. ☀️🌑
 
 
