@@ -5,7 +5,7 @@ var myInit = {
     headers: myHeaders,
     mode: 'cors',   
     cache: 'default'
-};  
+};      
 
  
 function defLoc(lat, lon, unit = "metric", theme = "light") {
