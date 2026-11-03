@@ -3,7 +3,7 @@ var myHeaders = new Headers();
 var myInit = {
     method: 'GET',
     headers: myHeaders,
-    mode: 'cors',
+    mode: 'cors',   
     cache: 'default'
 };  
 
